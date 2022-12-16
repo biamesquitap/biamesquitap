@@ -4,6 +4,6 @@
  
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NODE, REACT.
 
-- 📫 How to reach me: beatrizmesquitta@yahoo.com / @biamesquitap
+- 📫 How to reach me: biamesquitap@gmail.com / @biamesquitap
 
 
