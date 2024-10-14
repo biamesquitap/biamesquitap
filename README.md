@@ -6,20 +6,23 @@
 
 
 <h3 aling="center"> 
-  👩🏻 My name's Beatriz Mesquita
+  👩🏻 Helloo! My name's Beatriz Mesquita
 </h3>
  
  
 <ul>
   
- I'm Front-end developer.
-  
- I’m currently studying at Rocketseat, improving myself in technologies like ReactJS to Web, React Native to mobile. 
-  
- Feel free to see my repositories. They're personal projects and some [RocketSeat](https://app.rocketseat.com.br/) classes projects.
+👩‍💻 Front-end Developer & Aspiring Data Scientist
+I'm passionate about creating interactive, user-friendly web applications, but my journey doesn’t stop there. As I expand my skill set, I'm diving into the fascinating world of Data Science.
 
+📚 Currently Learning:
+I’m enrolled in HarvardX's CS109x: Introduction to Data Science with Python on edX, where I'm honing my skills in Python, statistics, and data manipulation. My goal is to blend the art of coding with the power of data-driven insights, tackling real-world problems with technology.
 
-  <ul>
+💡 What You’ll Find Here:
+My repositories reflect both my growth and curiosity. You’ll see personal projects that challenge my abilities, and a few from my time at Rocketseat, where I strengthened my knowledge in ReactJS (for web) and React Native (for mobile development).
+
+🌱 Open to Collaboration:
+I’m always eager to learn and collaborate on meaningful projects. Feel free to explore my work, and let's build something amazing together.
 
 </br> </br>
 
