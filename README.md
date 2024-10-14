@@ -1,12 +1,12 @@
 <div aling="center"> 
   
   
-  ![welcome](https://user-images.githubusercontent.com/94808375/230090930-8e4865b1-478b-43f3-892c-3f443cf25a9a.gif)
+  ![welcome]([[https://user-images.githubusercontent.com/94808375/230090930-8e4865b1-478b-43f3-892c-3f443cf25a9a.gif](https://github.com/gsfreitas)](https://user-images.githubusercontent.com/87828805/144579071-9f6139c4-a52a-43a5-8a03-31f012611c47.gif))
  </div>
 
 
 <h3 aling="center"> 
-  👩🏻 Helloo! My name's Beatriz Mesquita
+  👩🏻 Helloo, I'm Beatriz Mesquita
 </h3>
  
  
