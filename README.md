@@ -1,7 +1,7 @@
 <div aling="center"> 
   
   
-  ![welcome]((https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlhcmY1eXd6Y2xsbXQ2MTA2aDltaW54c2kwZzdneWp2Z3NoZmM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.webp)
+  ![welcome](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlhcmY1eXd6Y2xsbXQ2MTA2aDltaW54c2kwZzdneWp2Z3NoZmM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4jKn7itdV2Tvjzj6Y/giphy.webp
 )
  </div>
 
