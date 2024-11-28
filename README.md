@@ -1,7 +1,7 @@
 <div aling="center"> 
   
   
-  ![welcome](https://user-images.githubusercontent.com/87828805/144579071-9f6139c4-a52a-43a5-8a03-31f012611c47.gif)
+  ![welcome](https://dribbble.com/shots/2951104-Data-Science-Philanthropy/attachments/9572691?mode=media)
  </div>
 
 
@@ -12,17 +12,25 @@
  
 <ul>
   
-👩‍💻 Front-end Developer & Aspiring Data Scientist
-I'm passionate about creating interactive, user-friendly web applications, but my journey doesn’t stop there. As I expand my skill set, I'm diving into the fascinating world of Data Science.
+👩‍💻 Aspiring Data Scientist & Software Engineer
+With a background in front-end development and a growing passion for Data Science, I am dedicated to transforming data into meaningful insights and building innovative solutions. My journey started with creating user-friendly web applications, but now I’m delving deeper into data analysis and machine learning.
 
 📚 Currently Learning:
-I’m enrolled in HarvardX's CS109x: Introduction to Data Science with Python on edX, where I'm honing my skills in Python, statistics, and data manipulation. My goal is to blend the art of coding with the power of data-driven insights, tackling real-world problems with technology.
+I’m pursuing a postgraduate degree in Data Science and enhancing my skills through two key courses:
+
+Introduction to Data Science with Python (HarvardX's CS109x at edX)
+Introduction to Data Science in Python (University of Michigan at Coursera)
+My focus is on Python, statistics, data manipulation, and machine learning. I aim to integrate coding and data-driven insights to solve real-world challenges.
 
 💡 What You’ll Find Here:
-My repositories reflect both my growth and curiosity. You’ll see personal projects that challenge my abilities, and a few from my time at Rocketseat, where I strengthened my knowledge in ReactJS (for web) and React Native (for mobile development).
+My repositories reflect my journey from front-end development to data science, including:
+
+Machine Learning Projects: Featuring data classification, feature extraction, and hands-on experiments.
+Front-End Applications: Built with ReactJS and React Native, highlighting user-friendly interfaces.
+Personal Challenges: Projects exploring data analysis and problem-solving with Python.
 
 🌱 Open to Collaboration:
-I’m always eager to learn and collaborate on meaningful projects. Feel free to explore my work, and let's build something amazing together.
+I’m always eager to collaborate on impactful projects that harness the power of data and technology. If you’re looking for a partner in data-driven initiatives, let’s create something amazing together!
 
 </br> </br>
 
